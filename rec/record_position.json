@@ -1,0 +1,128 @@
+[
+  {
+    "target": "R1-6",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "L1",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "L2",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "L3",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "L4",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "L5",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "C2",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "C3",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "Mi1",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "Tm1",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "Tm2",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "Tm4",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "Tm9",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "CT1",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "T5a",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "T5b",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "T5c",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  },
+  {
+    "target": "T5d",
+    "section": {
+      "name": "axon",
+      "point": 0.5
+    }
+  }
+]

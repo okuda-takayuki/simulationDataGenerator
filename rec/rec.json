@@ -1,0 +1,1906 @@
+[
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "R1-6,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L1,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L2,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L3,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L4,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "L5,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C2,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "C3,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Mi1,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm1,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm2,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm4,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "Tm9,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5a,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5b,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5c,3,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,0,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,0,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,0,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,0,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,1,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,1,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,1,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,1,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,2,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,2,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,2,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,2,3"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,3,0"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,3,1"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,3,2"
+    },
+    {
+        "section": {
+            "name": "axon",
+            "point": 0.5
+        },
+        "target_cellname": "T5d,3,3"
+    }
+]
